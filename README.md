@@ -87,3 +87,5 @@ Pada bagian ini saya akan menjelaskan bagaimana program saya berjalan. Mulai dar
 
 ## Penutup
 <br> Itu saja penjelasan saya untuk Mini Project kali ini. Sekian dan terima kasih sudah membaca.
+<img width="2480" height="3500" alt="Tak berjudul661" src="https://github.com/user-attachments/assets/9a8ee0d0-d616-490b-bf0d-4df257d3d838" />
+
