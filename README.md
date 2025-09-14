@@ -80,6 +80,9 @@ Pada bagian ini saya akan menjelaskan bagaimana program saya berjalan. Mulai dar
 
 **Kemenangan**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3392eeb8-dd48-44b6-bf7c-fa3d980bc32e" />
+
+## Penutup
+<br> Itu saja penjelasan saya untuk Mini Project kali ini. Sekian dan terima kasih sudah membaca.
 <br> Jika variable game_status adalah "Win", program akan menampilkan nama pengguna diikuti kalimat WIN yang berarti menang dan pengguna telah berhasil menyelesaikan permainan.
 **Kekalahan**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/31a2197c-abbe-467d-acbc-5ce7344c7cf4" />
