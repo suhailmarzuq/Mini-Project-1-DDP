@@ -1,4 +1,4 @@
-### Note : print() dengan isi kosong digunakan untuk menambahkan spasi agar kemudahan membaca
+### Note : print() dengan isi kosong digunakan untuk menambahkan spasi agar kemudahan membaca terminal
 
 ## Pengaturan Dasar
 
@@ -229,5 +229,6 @@ if game_status == "Win":
 elif game_status == "Lose":
     print()
     print("GAME OVER")
+
 
 print()
