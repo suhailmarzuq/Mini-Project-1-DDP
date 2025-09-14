@@ -28,3 +28,9 @@ Saya akan memberi penjelasan singkat apa yang terjadi pada flowchart. Selebihnya
 
 ## Penjelasan Program
 Pada bagian ini saya akan menjelaskan bagaimana program saya berjalan. Mulai dari awal, percabangannya hingga akhir.
+
+### Deklarasi Variable
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4846998e-8587-4fbe-b240-09ae480f0518" />
+<br> Terdapat beberapa variable yang saya deklarasikan. Pertama ada c_name, variable berbentuk tuple dan menyimpan nama-nama yang akan digunakan dalam program sebagai nama karakter. Kedua ada variable list monster yang menyimpan status dari monster, mulai dari nama yang diambil dari tuple sebelumnya, health, max health dan serangan. Ketiga ada list item yang berisi Sword dan Heal Potion.
+
+<br> Di bawahnya terdapat variable battle yang selanjutnya menentukan apakah loop battle akan dimulai atau tidak. Variable game_status akan digunakan untuk menentukan apakah pengguna menang atau kalah. Variable quest akan menentukan apakah pengguna dapat mengambil quest, lalu variable quest_a atau quest_b digunakan untuk menjalankan program berdasarkan quest A atau B yang dipilih.
