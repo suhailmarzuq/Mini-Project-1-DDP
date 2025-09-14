@@ -91,7 +91,7 @@ while quest == True:
         print(f"{c_name[0]} : Haha, tolong pilih quest dengan benar ^^")
 
     ## Menjalankan Quest A
-    while quest_a == True:
+    if quest_a == True:
         print()
         print(f"{player[0]} berjalan ke dalam hutan dan bertemu dengan goblin yang sedang menyerang seorang gadis. {player[0]} maju dan menyerang goblin itu.")
         print()
@@ -170,8 +170,6 @@ while quest == True:
                 # Mengentikan Loop Battle
                 battle = False
 
-                # Menghentikan Loop Quest A
-                quest_a = False
 
             # Mengecek Apakah Monster Masih Memiliki HP
             if monster[1] > 0:
@@ -194,9 +192,6 @@ while quest == True:
 
                 # Mengentikan Loop Battle
                 battle = False
-
-                # Menghentikan Loop Quest A
-                quest_a = False
 
 
     ## Menjalankan Quest B
@@ -232,3 +227,4 @@ elif game_status == "Lose":
 
 
 print()
+
